@@ -1,4 +1,4 @@
-PERN Stack To-Do App
+PriorityPal App
 
 A full-featured to-do application built using the PERN stack (PostgreSQL, Express, React, Node). This repository includes task CRUD operations and a responsive UI.
 Features
